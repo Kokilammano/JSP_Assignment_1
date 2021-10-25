@@ -12,7 +12,7 @@
 		 tax=income*20/100;
 	}
 	else{
-		 tax=income*50/100;
+		 tax=income*30/100;
 	}
 	
 %>
